@@ -20,7 +20,7 @@ These days, **I’m working on websites, single page applications, cross-platfor
 - [Sprint Timer](https://github.com/Madhav-Malhotra/sprint-timer-app): My first app, made with React Native. It’s meant to be simple - set a time, set a goal, and work. 
 - [Neural Style Transfer](https://github.com/Madhav-Malhotra/neural-style-transfer): I learned about neural style transfer in Andrew Ng’s CNN course. I then used it to make my best friend a photo gallery because she loves nostalgic photos 🤗
 
-![Project screenshots](./Work Preview.png)
+![Projects screenshot](./Work Preview.png)
 
 # Catch me if you can... 
 
