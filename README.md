@@ -27,4 +27,4 @@ These days, **I’m working on web apps, cross-platform mobile apps, CAD designs
 Here are some links to help 😋
 - 🌐  Website: https://madhavmalhotra.com/ 
 - 👔  Linkedin: https://linkedin.com/in/madhav-malhotra/
-- 💬  Twitter: https://twitter.com/madhavmalhotra/
+- 💬  Twitter: https://twitter.com/madhavmalhotra_/
