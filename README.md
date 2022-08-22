@@ -14,11 +14,12 @@ But I don’t code for the sake of coding. It’s a tool for me - like a screwdr
 - I don’t think: “YEAH, I LOVE TURNING THIS SCREWDRIVER!!!” 😜
 - I think: “Wow, look at this cool problem I can solve with a screwdriver!” 
 
-These days, **I’m working on web apps, cross-platform mobile apps, CAD designs,and AI algorithms.** Here are some recent projects:
+These days, **I’m working on web apps, cross-platform mobile apps, CAD designs, and AI algorithms.** Here are some recent projects:
 - [Bestie Mail](https://github.com/Madhav-Malhotra/bestie-mail): I made this site with React to send a funny, cute message to your special someone. 
-- [Personal Website](https://github.com/Madhav-Malhotra/Madhav-Malhotra.github.io): Site made with vanilla HTML/CSS/JS and Notion Sites. Showcases my portfolio, blog, and some hidden goodies 😉
+- [Personal Website](https://github.com/Madhav-Malhotra/Madhav-Malhotra.github.io): Personal site using vanilla HTML/CSS/JS and Notion Sites. Showcases my portfolio, blog, and some hidden goodies 😉
 - [Sprint Timer](https://github.com/Madhav-Malhotra/sprint-timer-app): My first app, made with React Native. It’s meant to be simple - set a time, set a goal, and work. 
 - [Neural Style Transfer](https://github.com/Madhav-Malhotra/neural-style-transfer): I learned about neural style transfer in Andrew Ng’s CNN course. I then used it to make my best friend a photo gallery because she loves nostalgic photos 🤗
+- [Eve Explorer](https://github.com/Madhav-Malhotra/Eve-Robot-Explorer): I used Autodesk's Fusion 360 to model Eve from Wall-E! Being a Wall-E, I also _had_ to make a 3s [fan-animation](https://www.linkedin.com/posts/madhav-malhotra_my-first-3d-animation-i-feel-happy-because-activity-6892600844219416576-ebre/?utm_source=share&utm_medium=member_desktop) 😁
 
 ![Projects screenshot](./Preview.png)
 
