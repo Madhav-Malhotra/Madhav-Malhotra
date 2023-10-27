@@ -1,31 +1,23 @@
 ![Header](./Header.jpg)
 # Greetings, my dear fellow 🖐️
 Happy to have you join me on this little page I call ~my propaganda centre~ home! Here are some unsollicited factoids about me :D
-- I’m a university student from Toronto, Canada. 
-- I love the planet and my mother! 💖
 - **I value helpfulness, reliability, and resourcefulness (in that order).** 
-- **I’m looking for ways to solve neglected global problems.** 🌎👔
+- I’m looking for ways to solve neglected global problems. 🌎👔
+- I’m a computer engineering student at the University of Waterloo.
 
-# About the whole code thing... 👉👈
-I’ll be honest - I’m not the best senior-executive-commander-supreme-lead-developer-in-charge-person :D
+# My journey with computers 🚀
+Computers seem like my secret weapon to get around all of my human limitations. I can schedule tasks to be done ahead of time, multitask, serve everyone at once... all things that someone who values helpfulness would love! Plus, one of my core values is resourcefulness, so **there’s very little I can’t learn within 3 days and 10 Stack Overflow posts.**
 
-Don’t get me wrong - one of my core values is resourcefulness, so **there’s very little I can’t learn within 3 days and 10 Stack Overflow posts** 😸
-But I don’t code for the sake of coding. It’s a tool for me - like a screwdriver. 
-- I don’t think: “YEAH, I LOVE TURNING THIS SCREWDRIVER!!!” 😜
-- I think: “Wow, look at this cool problem I can solve with a screwdriver!” 
-
-These days, **I’m working on web apps, cross-platform mobile apps, CAD designs, and AI algorithms.** Here are some recent projects:
-- [Bestie Mail](https://github.com/Madhav-Malhotra/bestie-mail): I made this site with React to send a funny, cute message to your special someone. 
-- [Personal Website](https://github.com/Madhav-Malhotra/Madhav-Malhotra.github.io): Personal site using vanilla HTML/CSS/JS and Notion Sites. Showcases my portfolio, blog, and some hidden goodies 😉
-- [Sprint Timer](https://github.com/Madhav-Malhotra/sprint-timer-app): My first app, made with React Native. It’s meant to be simple - set a time, set a goal, and work. 
-- [Neural Style Transfer](https://github.com/Madhav-Malhotra/neural-style-transfer): I learned about neural style transfer in Andrew Ng’s CNN course. I then used it to make my best friend a photo gallery because she loves nostalgic photos 🤗
-- [Eve Explorer](https://github.com/Madhav-Malhotra/Eve-Robot-Explorer): I used Autodesk's Fusion 360 to model Eve from Wall-E! Being a Wall-E, I also _had_ to make a 3s [fan-animation](https://www.linkedin.com/posts/madhav-malhotra_my-first-3d-animation-i-feel-happy-because-activity-6892600844219416576-ebre/?utm_source=share&utm_medium=member_desktop) 😁
+These days, **I’m working on bio-inspired AI algorithms, full-stack development, and obsessively-detailed documentation.** 😸 Here are some recent projects:
+- [Canadian Institute of Cybersecurity IoT Dataset](https://github.com/Madhav-Malhotra/cicIoT): I've been experimenting with bio-inspired algorithms like the genetic algorithm, grey wolf optimiser, and artificial immune system. The aim is to use these to classify cyberattacks on smart devices like security cameras.
+- [ML Parameter Encryption](https://github.com/Madhav-Malhotra/ML-parameter-encryption): I implemented some algorithms from research papers trying to prevent the theft of AI models.
+- [Multi-search dropdowns](https://github.com/Madhav-Malhotra/multi-search-dropdowns): At an internship at Public Health Canada, I went full-out on code reusability, documentation, and OOP to make Javascript dropdown components that met accessibility standards and enabled multiselect and/or search capabilities.
+- [Eve Explorer](https://github.com/Madhav-Malhotra/Eve-Robot-Explorer): I used Autodesk's Fusion 360 to model Eve from Wall-E! Being a Wall-E fan, I also _had_ to make a [Blender animation](https://www.linkedin.com/posts/madhav-malhotra_my-first-3d-animation-i-feel-happy-because-activity-6892600844219416576-ebre/?utm_source=share&utm_medium=member_desktop) and [Three.js simulator](https://www.madhavmalhotra.com/Eve-Robot-Explorer/dist/index.html) 😁
 
 ![Projects screenshot](./Preview.png)
 
 # Catch me if you can... 
 
 Here are some links to help 😋
-- 🌐  Website: https://madhavmalhotra.com/ 
-- 👔  Linkedin: https://linkedin.com/in/madhav-malhotra/
-- 💬  Twitter: https://twitter.com/madhavmalhotra_/
+- 🌐  Website: [madhavmalhotra.com/](https://madhavmalhotra.com/) 
+- 👔  Linkedin: [linkedin.com/in/madhav-malhotra/](https://linkedin.com/in/madhav-malhotra/)
